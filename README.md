@@ -1,6 +1,6 @@
 # Steven Ly — Data Science & ML Portfolio
 
-Selected projects in machine learning, NLP, and big-data systems.
+Welcome! I've selected projects that demonstrate my journey into machine learning, natural language processing, and big-data systems.
 
 ## Featured Projects
 
@@ -56,6 +56,7 @@ Selected projects in machine learning, NLP, and big-data systems.
 - Hadoop
 - Spark
 - Hive
+- Hue
 - Sqoop
 - YARN
 - HDFS
