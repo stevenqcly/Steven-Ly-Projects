@@ -8,8 +8,8 @@ Welcome! I've selected projects that demonstrate my journey into machine learnin
 **What it is:** Multi-label emotion detection using transformer/LLM approaches.  
 **Highlights:** fine-tuning, evaluation, error analysis, deployment-ready structure.
 
-- Repo: ./nlp-multilabel-emotion
-- Readme: ./nlp-multilabel-emotion/Project Write-up (Decoder).pdf
+- Repo: [NLP Multilabel Classification](./nlp-multilabel-emotion)
+- Analysis: [Project Write-Up](./nlp-multilabel-emotion/Project%20Write-up%20(Decoder).pdf)
 
 ---
 
@@ -22,8 +22,8 @@ Welcome! I've selected projects that demonstrate my journey into machine learnin
 - SHAP explainability analysis
 - Validation pipeline
 
-- Repo: ./applied-ml-credit-risk
-- Readme: ./applied-ml-credit-risk/Credit Risk Modelling 1.pdf
+- Repo: [AML Credit Risk Modelling](./applied-ml-credit-risk)
+- Analysis: [Project Presenation](./applied-ml-credit-risk/Credit%20Risk%20Modelling%201.pdf)
 
 ---
 
@@ -39,8 +39,8 @@ Welcome! I've selected projects that demonstrate my journey into machine learnin
 - PySpark analytics workflows
 - Designed for reproducible big-data education environments
 
-- Repo: ./hadoop-bigdata-docker
-- Readme: ./hadoop-bigdata-docker/README.md
+- Repo: [Hadoop Docker Container](https://github.com/stevenqcly/cdh5-docker)
+- Readme: [README.md](https://github.com/stevenqcly/cdh5-docker/blob/4daadf24da16ae212eaa6975fcb8f4c34b26a9f1/README.md)
 
 ---
 
