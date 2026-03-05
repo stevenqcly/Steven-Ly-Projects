@@ -1,3 +1,7 @@
 [submodule "cdh5-docker"]
 	path = cdh5-docker
 	url = https://github.com/stevenqcly/cdh5-docker.git
+[submodule "projects/applied-ml-credit-risk"]
+	path = projects/applied-ml-credit-risk
+[submodule "projects/nlp-multilabel-emotion"]
+	path = projects/nlp-multilabel-emotion
