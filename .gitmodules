@@ -1,7 +1,3 @@
 [submodule "hadoop-bigdata-docker"]
-    path = hadoop-bigdata-docker
-	url = https://github.com/stevenqcly/cdh5-docker.git
-[submodule "applied-ml-credit-risk"]
-	path = applied-ml-credit-risk
-[submodule "nlp-multilabel-emotion"]
-	path = nlp-multilabel-emotion
+  path = hadoop-bigdata-docker
+  url = https://github.com/stevenqcly/cdh5-docker.git
